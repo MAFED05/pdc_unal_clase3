@@ -281,7 +281,7 @@ se realiza mediante el uso de conceptos como el de variable.
 </div>
 
 <p align="justify">
-Los COMPILADORES e INTERPRETES son software capaz de traducir de un lenguaje de alto
+Los COMPILADORES e INTÉRPRETES son software capaz de traducir de un lenguaje de alto
 nivel al lenguaje ensamblador específico de una máquina. Los primeros toman todo el programa
 en lenguaje de alto nivel, lo pasan a lenguaje ensamblador y luego lo ejecutan. Los últimos
 toman instrucción por instrucción, la traducen y la van ejecutando.
@@ -289,7 +289,7 @@ toman instrucción por instrucción, la traducen y la van ejecutando.
 
 ### Aplicaciones
 <p align="justify">
-Una APLICACION es un software construido para que el computador realice una tarea
+Una APLICACIÓN es un software construido para que el computador realice una tarea
 específica y con el cual no se puede construir otro software. Ejemplos de aplicaciones son los
 procesadores de texto como Microsoft Word y Word Perfect y las hojas electrónicas de cálculo
 como Microsoft Excel y Lotus.
